@@ -1,0 +1,2 @@
+Wymagania funkcjonalne weryfikuja i testuja jak coœ dzia³¹.
+Wymahania niefunkcjonalne sprawdzaja jak dzia³aja dane komponenty
